@@ -1,0 +1,13 @@
+D:\Study\SqliteWithCSharpCrudOperation\SupplierMgtApp\SupplierMgtApp\bin\Debug\SupplierMgtApp.exe.config
+D:\Study\SqliteWithCSharpCrudOperation\SupplierMgtApp\SupplierMgtApp\bin\Debug\SupplierMgtApp.exe
+D:\Study\SqliteWithCSharpCrudOperation\SupplierMgtApp\SupplierMgtApp\bin\Debug\SupplierMgtApp.pdb
+D:\Study\SqliteWithCSharpCrudOperation\SupplierMgtApp\SupplierMgtApp\bin\Debug\Dapper.dll
+D:\Study\SqliteWithCSharpCrudOperation\SupplierMgtApp\SupplierMgtApp\bin\Debug\System.Data.SQLite.dll
+D:\Study\SqliteWithCSharpCrudOperation\SupplierMgtApp\SupplierMgtApp\bin\Debug\Dapper.xml
+D:\Study\SqliteWithCSharpCrudOperation\SupplierMgtApp\SupplierMgtApp\bin\Debug\System.Data.SQLite.xml
+D:\Study\SqliteWithCSharpCrudOperation\SupplierMgtApp\SupplierMgtApp\obj\Debug\SupplierMgtApp.Properties.Resources.resources
+D:\Study\SqliteWithCSharpCrudOperation\SupplierMgtApp\SupplierMgtApp\obj\Debug\SupplierMgtApp.csproj.GenerateResource.Cache
+D:\Study\SqliteWithCSharpCrudOperation\SupplierMgtApp\SupplierMgtApp\obj\Debug\SupplierMgtApp.exe
+D:\Study\SqliteWithCSharpCrudOperation\SupplierMgtApp\SupplierMgtApp\obj\Debug\SupplierMgtApp.pdb
+D:\Study\SqliteWithCSharpCrudOperation\SupplierMgtApp\SupplierMgtApp\obj\Debug\SupplierMgtApp.csprojResolveAssemblyReference.cache
+D:\Study\SqliteWithCSharpCrudOperation\SupplierMgtApp\SupplierMgtApp\obj\Debug\SupplierMgtApp.SupplierFrm.resources
